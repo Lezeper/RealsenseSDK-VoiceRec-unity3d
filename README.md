@@ -1,4 +1,4 @@
-Introduction:
+Introduction:<br>
 Using Intel Realsense SDK for Speech Recognition and Synthesis in Unity. Test on Windows 8.1 and Unity 4.5/5.0
 
 Requirement:
